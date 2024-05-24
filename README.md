@@ -1,16 +1,24 @@
-## Hi there 👋
+![fontbolt-removebg-preview](https://github.com/Matheuscascadebala/Matheuscascadebala/assets/170322301/f4db48ae-13fc-4227-bf0e-99d69f3af9)
 
-<!--
-**Matheuscascadebala/Matheuscascadebala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Boas vindas ao meu perfil 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Matheus Alves Ribeiro
+
+
+* Estou estudando na Alura
+
+* Estou me desenvolvendo na linguagem JavaScript
+
+* Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+![](https://pin.it/6y7Y7E7lO)
+
+
+
+Você pode entrar em contato comigo 📫
+
+fossilmitex@gmail.com
+
+@Matheuscascadebala
