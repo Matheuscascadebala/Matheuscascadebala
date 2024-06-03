@@ -23,6 +23,6 @@ Jogo Dark Souls e Roblox
 
 Você pode entrar em contato comigo 📫
 
-fossilmitex@gmail.com
+00001101350520sp@al.educacao.sp.gov.br
 
 @Matheuscascadebala
