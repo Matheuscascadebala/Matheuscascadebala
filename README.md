@@ -6,7 +6,7 @@ Boas vindas ao meu perfil
 Meu nome é Matheus Alves Ribeiro
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://media1.tenor.com/m/rrooJHizb3sAAAAd/gojo-gojo-satoru.gif)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ![](https://media1.tenor.com/m/rrooJHizb3sAAAAd/gojo-gojo-satoru.gif)
 
 
 * Estou fazendo alura
